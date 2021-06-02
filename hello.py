@@ -59,3 +59,17 @@
 # print(stack.pop())
 # print(stack.pop())
 
+# print("hello" * 5)
+
+# def HelloMyName(name):
+#     print(f'hello,{name}')
+
+# name=input('이름을 입력하세요 : ')
+# HelloMyName(name)
+
+n  = int(input("숫자를 입력하세요 : "))
+sum = 0
+for i in range(1, n+1):
+    sum+= i
+
+print(sum)
