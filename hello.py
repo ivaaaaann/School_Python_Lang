@@ -67,9 +67,9 @@
 # name=input('이름을 입력하세요 : ')
 # HelloMyName(name)
 
-n  = int(input("숫자를 입력하세요 : "))
+n = int(input("숫자를 입력하세요 : "))
 sum = 0
 for i in range(1, n+1):
-    sum+= i
+    sum += i
 
 print(sum)

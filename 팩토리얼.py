@@ -13,4 +13,5 @@ def fact(n):
         r=r*i
     return r
 
+
 print(fact(5))

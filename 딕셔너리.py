@@ -7,10 +7,10 @@
 # print('-----설명-----')
 # print(d1[name])
 
-d1={}
+d1 = {}
 k, v = input().split()
 d1[k] = v
 
-name=input('이름입력 : ')
+name = input('이름입력 : ')
 print('----설명----')
 print(d1[name])
