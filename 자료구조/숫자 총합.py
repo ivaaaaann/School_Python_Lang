@@ -10,6 +10,6 @@
 # print(sum)
 
 n = []
-for _ in range(5):
+for _ in range(5) : 
     n.append(int(input()))
 print(sum(n))
